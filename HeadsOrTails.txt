@@ -1,0 +1,10 @@
+// based of of http://coding111.blogspot.com/2016/05/programming-exercise-811.html
+import java.util.Scanner;
+
+public class HeadsOrTails {
+
+	public static void main(String[] args) {
+
+		// input code
+
+		//make custom method
